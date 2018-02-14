@@ -1,2 +1,3 @@
-# collaborative-law-builder
-Draft, explain, debate, change, and visualize a sample bill.
+# collaborative-law
+
+> Draft, explain, debate, change, and visualize a sample bill.
