@@ -1,0 +1,10 @@
+{
+  "generator-community": {
+    "promptValues": {
+      "authorEmail": "greg@swindle.net",
+      "authorUrl": "https://github.com/democracy-ia",
+      "lang": "Node.js",
+      "dependencyManager": "npm"
+    }
+  }
+}
